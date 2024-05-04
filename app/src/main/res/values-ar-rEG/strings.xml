@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">assignment3</string>
+    <string name="add_to_cart">أضف الي السله</string>
+    <string name="total">اللأجمالي</string>
+    <string name="sub_total">جزء من الاجمالي</string>
+    <string name="shipping">الشحن</string>
+</resources>
